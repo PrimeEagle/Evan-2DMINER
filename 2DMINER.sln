@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DMINER", "2DMINER.csproj", "{F1A46174-FD89-B496-D6AE-AF5E8BFAB76B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DMINER.Editor", "2DMINER.Editor.csproj", "{9AE407E7-A23F-E1D9-93E8-420B7CF03205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1A46174-FD89-B496-D6AE-AF5E8BFAB76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A46174-FD89-B496-D6AE-AF5E8BFAB76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A46174-FD89-B496-D6AE-AF5E8BFAB76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A46174-FD89-B496-D6AE-AF5E8BFAB76B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AE407E7-A23F-E1D9-93E8-420B7CF03205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE407E7-A23F-E1D9-93E8-420B7CF03205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE407E7-A23F-E1D9-93E8-420B7CF03205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE407E7-A23F-E1D9-93E8-420B7CF03205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
